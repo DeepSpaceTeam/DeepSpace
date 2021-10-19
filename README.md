@@ -1,5 +1,5 @@
 # DeepSpace
-[![codebeat badge](https://codebeat.co/badges/???)](https://codebeat.co/projects/github-com-deepspaceteam-deepspace-master)
+[![codebeat badge](https://www.codefactor.io/repository/github/deepspaceteam/deepspace/badge?style=plastic](https://www.codefactor.io/repository/github/deepspaceteam/deepspace/)
 
 [Download APK](https://drive.google.com/file/d/1gmA5UAjOWfY_8iK-2Lo7f7qCaUBPe548/view?usp=sharing)
 
