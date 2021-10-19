@@ -1,4 +1,6 @@
 # DeepSpace
+[![codebeat badge](https://codebeat.co/badges/???)](https://codebeat.co/projects/github-com-deepspaceteam-deepspace-master)
+
 [Download APK](https://drive.google.com/file/d/1gmA5UAjOWfY_8iK-2Lo7f7qCaUBPe548/view?usp=sharing)
 
 Dive into the world of space! Read space news, communicate with the other space-lovers and always know where planets are located at the current moment by using space navigator!
