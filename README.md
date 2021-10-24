@@ -1,5 +1,9 @@
-# Deep Space 
-APK можно загрузить по ссылке: https://drive.google.com/file/d/1gmA5UAjOWfY_8iK-2Lo7f7qCaUBPe548/view?usp=sharing
+# DeepSpace
+[![CodeFactor](https://www.codefactor.io/repository/github/deepspaceteam/deepspace/badge?style=plastic)](https://www.codefactor.io/repository/github/deepspaceteam/deepspace/)
+<!--[![codebeat badge](https://codebeat.co/badges/github-com-deepspaceteam-deepspace-master)](https://codebeat.co/projects/github-com-deepspaceteam-deepspace-master)-->
+
+
+[Download APK](https://drive.google.com/file/d/1gmA5UAjOWfY_8iK-2Lo7f7qCaUBPe548/view?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/55493845/128432221-8806288e-f41f-44c1-9ee1-7cbd6b70e9d7.png)
 
